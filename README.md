@@ -60,11 +60,11 @@ The solution is designed to handle high-volume requests, ensuring scalability, r
 ```
 
 ## Technical Stack
-- Programming Language: Python
-- Web Scraping: Selenium in headless browser mode with proxy rotation.
-- Deployment: AWS Lambda with dependencies managed as Lambda layers.
-- Database: AWS DynamoDB for storing job details in JSON format.
-- API Trigger: AWS API Gateway with Postman for testing.
+- **Programming Language:** Python
+- **Web Scraping:** Selenium in headless browser mode with proxy rotation.
+- **Deployment:** AWS Lambda with dependencies managed as Lambda layers.
+- **Database:** AWS DynamoDB for storing job details in JSON format.
+- **API Trigger:** AWS API Gateway with **Postman** for testing.
 
 ## Screenshots
 1. Lambda Function
