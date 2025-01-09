@@ -1,0 +1,14 @@
+{
+    "job_details": {
+        "job_id": "4110715789",
+        "job_title": "Data Scientist or Engineer",
+        "company": {
+            "name": "AKS ProTalent",
+            "location": "India"
+        },
+        "job_description": {
+            "overview": "We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights. In this role, you should be highly analytical with a knack for analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. We also want to see a passion for machine-learning and research. Your goal will be to help our company analyze trends to make better decisions.",
+            "details": "\nResponsibilities\nIdentify valuable data sources and automate collection processes\nUndertake preprocessing of structured and unstructured data\nAnalyze large amounts of information to discover trends and patterns\nBuild predictive models and machine-learning algorithms\nCombine models through ensemble modeling\nPresent information using data visualization techniques\nPropose solutions and strategies to business challenges\nCollaborate with engineering and product development teams\n\nRequirements and skills\nProven experience as a Data Scientist or similar roles.\nExperience in data mining\nUnderstanding of machine-learning and operations research\nKnowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset\nExperience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)\nAnalytical mind and business acumen\nStrong math skills (e.g. statistics, algebra)\nProblem-solving aptitude\nExcellent communication and presentation skills"
+        }
+    }
+}

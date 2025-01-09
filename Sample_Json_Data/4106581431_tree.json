@@ -1,0 +1,14 @@
+{
+    "job_details": {
+        "job_id": "4106581431",
+        "job_title": "Cloud Data Engineer",
+        "company": {
+            "name": "Ubique Systems",
+            "location": "Pune, Maharashtra, India"
+        },
+        "job_description": {
+            "overview": "Role: Cloud Data Engineer",
+            "details": "Location: Gurugram/ Noida/Pune/Bengaluru (hybrid)\nShift: Rotational shift 24*7\nExperience: 4+ Years\n\nJob Description:\n\n🔹 Design and Build Data Pipelines using Azure Data Factory (ADF), SQL Queries, and Synapse Analytics\n🔹 Develop Power BI reports to provide actionable insights for our clients\n🔹 Enhance Data Ingestion Pipelines and ensure optimal performance and reliability\n🔹 Work with Azure Data Lake, Azure SQL, Azure Databricks, and Power BI to implement scalable data solutions\n🔹 Participate in DataOps activities and resolve complex data-related issues for clients\n🔹 Champion data quality, integrity, and best practices across the organization\n🔹 Collaborate with the team to develop business cases and demonstrate ROI to clients\n🔹 Evangelize self-service BI and automate manual processes to empower clients\n🔹 Provide technical expertise and on-the-job training for team members.\nWhat we’re looking for:\n\n• 4+ years of experience designing business intelligence solutions.\n• 4+ years of experience with ETL Process, Data warehouse architecture\n• 4+ Years of experience with Azure Data services i.e. ADF, ADLS Gen 2, Azure SQL dB, Synapse, Azure Databricks, and Power BI\n• Good analytical and problem-solving skills\n• Fluent in relational database concepts and flat file processing concepts\n• Must be knowledgeable in software development lifecycles/methodologies i.e. agile.\n• Has strong presentation and collaboration skills and can communicate all aspects of the job requirements, including the creation of formal documentation.\n• Strong problem solving, time management, and organizational skills.\n• Familiarity with Agile development methodologies\n• Keen to learn new languages and technologies."
+        }
+    }
+}

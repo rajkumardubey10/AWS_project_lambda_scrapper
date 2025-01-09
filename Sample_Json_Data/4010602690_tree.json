@@ -1,0 +1,14 @@
+{
+    "job_details": {
+        "job_id": "4010602690",
+        "job_title": "Senior Analyst - R Shiny/Python Developer",
+        "company": {
+            "name": "CRISIL Limited",
+            "location": "Pune, Maharashtra, India"
+        },
+        "job_description": {
+            "overview": "We are seeking a highly skilled and motivated individual to join our team as a model/UI developer. The ideal candidate should have advanced programming skills in R and R Shiny, with a background in the finance industry and excellent communication skills. Knowledge of structured finance would be a plus. In the event that we are unable to find suitable candidates with R programming expertise, experience in application development using Python, C++ or Java in the same order of preference will also be considered.",
+            "details": "\nResponsibilities:\n\nUtilize advanced programming skills in R to develop and implement credit rating models and algorithms\nLeverage R shiny skills to build intuitive and user friendly UI\nCollaborate with analytical teams to correctly translate criteria documents and design and implement models\nCommunicate complex concepts and findings to both technical and non-technical stakeholders\nStay up-to-date with industry trends and best practices in UI design and financial programming\n\nRequirements:\n\nAdvanced programming skills in R and R Shiny, with a strong understanding of statistical analysis and UI/UX design\nBackground in the finance industry, with knowledge of financial markets and instruments\nExcellent communication skills, with the ability to effectively convey technical concepts to non-technical stakeholders\nStrong problem-solving and analytical abilities\nExperience with structured finance is preferred, but not required\nExperience in application development using Python, Java, or C++ if not proficient in R/ R Shiny"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "job_details": {
+        "job_id": "4090225253",
+        "job_title": "Statistical Programmer",
+        "company": {
+            "name": "Tata Consultancy Services",
+            "location": "Mumbai Metropolitan Region"
+        },
+        "job_description": {
+            "overview": "TCS is hiring SDTM Programmer!",
+            "details": "Skill - SDTM Conversion programming\nJob Location – Mumbai, Pune, Bangalore, Indore, Ahmedabad\nExperience Range – 2 to 13 Years\nEducational Qualification(s) Required – Graduate/Postgraduate (Any life-science/ Engineering)\n\n\nResponsibilities:\nProviding support for the mapping and transformation of clinical data to CDISC SDTM standards,\nCreate the SDTM mappings for conversion of the data\nPerform extraction and mapping of the data from an in-house standard to an industry standard format (SDTM).\nCreate the SAS programs to convert the SI data to SDTM format\nAn understanding of all required SDTM components is essential, including the clinical domain, TDD’s, define.xml, Acrf. Programming experience with SAS is required, the ideal candidate will have a background in clinical programming in a data management setting or statistical setting. The ability to focus on customer needs, troubleshooting and providing innovative technical solutions, while adhering to standards is essential.\nIntegrity check to be performed every month end and the report needs to be reviewed. Required updates to be made in the development file of the respective domain and if no update is required justification needs to be provided against each report.\nControlled Terminology mapping to be done if there is a new Controlled terminology referring the QRS mappings standards.\nLead and actively participate in review of SDTM conversion deliverables.\nCreate and maintain process documentation as required\n\nRegards\nManisha"
+        }
+    }
+}

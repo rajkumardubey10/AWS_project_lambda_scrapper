@@ -1,0 +1,14 @@
+{
+    "job_details": {
+        "job_id": "4101829102",
+        "job_title": "Python Developer",
+        "company": {
+            "name": "Tata Consultancy Services",
+            "location": "Chennai, Tamil Nadu, India"
+        },
+        "job_description": {
+            "overview": "TCS has been a great pioneer in feeding the fire of young techies like you. We are a global leader in the technology arena and there’s nothing that can stop us from growing together.",
+            "details": "What we are looking for\nRole: Python devoloper\nExperience Range: 6 – 8 Years\nLocation: Bangalore/Hyderabad/ Chennai/Pune/Kochi\nMust-Have**\n(Ideally should not be more than 3-5)\nRequired hands on experience on Python\nAlso, required knowledge on below technologies:\na. Flask\nb. SqlAlchemy\nc. Redis\nd. MySql, MSSql Server\ne. Html, Css, Javascripts, Jquery, Ajax\nExperience required in Project Management tools like JIRA\nShould have hand's on in Git for source control\nKnowledge in Agile Development using Scrum\nHands on in CI/CD\n\nGood-to-Have(Ideally should not be more than 3-5)\n\nGood Communication\nShould have knowledge on Machine Learning"
+        }
+    }
+}
