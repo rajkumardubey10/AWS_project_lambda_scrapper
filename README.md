@@ -4,6 +4,15 @@
 This project implements a robust and scalable serverless system to scrape job details from LinkedIn. The system uses AWS Lambda for executing scraping tasks and is triggered via API Gateway. It leverages Selenium with a headless browser and proxy rotation to efficiently scrape job details. The scraped data is stored in DynamoDB in JSON format.
 The solution is designed to handle high-volume requests, ensuring scalability, reliability, and performance.
 
+![Python 3.9](https://img.shields.io/badge/Python-3.9-yellow.svg)
+![Selenium](https://img.shields.io/badge/Selenium-4.27.1-drakgreen.svg)
+![ChromeDriver](https://img.shields.io/badge/ChromeDriver-115+-red.svg)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-Python3.9-FF9900.svg)
+![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-REST_API-FF4F00.svg)
+![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-NoSQL_Storage-4053D6.svg)
+![AWS Serverless](https://img.shields.io/badge/AWS_Serverless-Framework-blue.svg)
+
+
 ## Project Architecture
 
 ![AWS_Project_Architectures  (1)](https://github.com/user-attachments/assets/a2c1ac3d-0d48-4a77-9ec8-9502fdc2c7c3)
