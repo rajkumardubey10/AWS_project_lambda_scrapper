@@ -17,7 +17,7 @@ The solution is designed to handle high-volume requests, ensuring scalability, r
 
 ## Project Architecture
 
-![AWS_Project_Architectures  (1)](https://github.com/user-attachments/assets/a2c1ac3d-0d48-4a77-9ec8-9502fdc2c7c3)
+![AWS_PROJECT_ARCHITECTURE](https://github.com/user-attachments/assets/2cec1a68-b4b7-4175-96ca-1473e4b4b630)
 
 1 **Input Trigger:** The API Gateway receives POST requests containing the LinkedIn Job ID.
 
