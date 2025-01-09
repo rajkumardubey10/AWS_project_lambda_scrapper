@@ -11,6 +11,8 @@ The solution is designed to handle high-volume requests, ensuring scalability, r
 ![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-REST_API-FF4F00.svg)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-NoSQL_Storage-4053D6.svg)
 ![AWS Serverless](https://img.shields.io/badge/AWS_Serverless-Framework-blue.svg)
+![Postman](https://img.shields.io/badge/Postman-API_Tests-orange.svg)
+
 
 
 ## Project Architecture
